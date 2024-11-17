@@ -1,0 +1,133 @@
+{
+   "checksum": "70edb549b8d1042bdbd92a16f27f4538",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13247769257753291",
+            "date_last_used": "0",
+            "guid": "f13074b8-9e56-40c2-ac51-0b8a2ff32545",
+            "id": "6",
+            "name": "(74) Mera Maula Ali | Nadeem Sarwar | 2020 | 1442 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=WX7bNiLofIA"
+         }, {
+            "children": [ {
+               "date_added": "13257004911598254",
+               "date_last_used": "0",
+               "guid": "8c6b3831-7d69-430e-8e6d-da3e3532a17b",
+               "id": "8",
+               "name": "dark reader - Google Search",
+               "type": "url",
+               "url": "https://www.google.com/search?q=dark+reader&oq=dark+reader&aqs=chrome..69i57j0l9.9247j0j7&sourceid=chrome&ie=UTF-8"
+            }, {
+               "date_added": "13317330174810122",
+               "date_last_used": "0",
+               "guid": "1f934e59-3aaf-49ec-b311-abe20c7d4ed0",
+               "id": "9",
+               "name": "(735) Introduction to JavaScript + Setup | JavaScript Tutorial in Hindi #1 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ER9SspLe4Hg&list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR"
+            }, {
+               "date_added": "13318536541211278",
+               "date_last_used": "0",
+               "guid": "23803e8c-1b03-474f-ab51-b7e3133119f1",
+               "id": "10",
+               "name": "(1834) Host Website for FREE on GitHub in 5 Minute Only in Hindi 🔥 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=A2R-CMMyp64"
+            }, {
+               "date_added": "13318536561347515",
+               "date_last_used": "0",
+               "guid": "d873a0ca-4a26-4ecb-bf00-c14aa060f83f",
+               "id": "11",
+               "name": "GiveLight Foundation - Welcome to GiveLight",
+               "type": "url",
+               "url": "https://givelight.org/index.php?gclid=CjwKCAiAzp6eBhByEiwA_gGq5InVQsTzxDaEP7y4hkhvYUNpTOp7Gm1-vFO3YHuoi4sPnZwbKA4UexoCDNsQAvD_BwE"
+            }, {
+               "date_added": "13318541703434801",
+               "date_last_used": "0",
+               "guid": "fac5de1f-8844-45a5-ba3d-489e5a949b82",
+               "id": "12",
+               "name": "(1839) What is WordPress & CMS (Content Management System) | WordPress Tutorial #1 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=-6q3Rt1MTtk&list=PLjVLYmrlmjGcXDYZC67Us13PBD-3us9jB"
+            }, {
+               "date_added": "13319029835533448",
+               "date_last_used": "0",
+               "guid": "039f5ca8-cec1-4936-91f0-3e6ac96b11a3",
+               "id": "13",
+               "name": "Bootstrap Template 2",
+               "type": "url",
+               "url": "file:///C:/Users/AK%20Computer/Desktop/Bootsrap%20template%202/home.html#"
+            }, {
+               "date_added": "13321131725614405",
+               "date_last_used": "0",
+               "guid": "fbb94e36-0218-426c-8bd7-64ce3e751f71",
+               "id": "14",
+               "name": "(524) Chapter 3 Exercise 3.1 Introduction Class 11 Maths Sindh Board Mathematics new book || Vectors - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=gBJeoK4zUHU&list=PLt-f7SJ7ysSOA7y3pzpj0M-P0TVcge5ps"
+            }, {
+               "date_added": "13321330525701752",
+               "date_last_used": "0",
+               "guid": "4db4104d-4091-4f05-badc-22cdc147bd8f",
+               "id": "15",
+               "name": "(652) Before you Start Learning Adobe Premiere Pro CC Class 1 - Urdu / Hindi - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=h6eeDgBjZq8&list=PLW-zSkCnZ-gABGZU8--ISUauyewG40Yex"
+            }, {
+               "date_added": "13321330719061667",
+               "date_last_used": "0",
+               "guid": "2a776e84-1311-4a63-bc2a-06807813c76c",
+               "id": "16",
+               "name": "begginers for editing",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ZByhs9mDtDg&list=PLW-zSkCnZ-gA5Jn6gZtUa6-aG0OoRZyb6&index=1"
+            }, {
+               "date_added": "13321446403922821",
+               "date_last_used": "0",
+               "guid": "e9e36755-e9a5-41f2-9ce4-48698749fd45",
+               "id": "17",
+               "name": "fim",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=kOO8f8y2Ik0"
+            } ],
+            "date_added": "13323077792701610",
+            "date_last_used": "0",
+            "date_modified": "13323077792701610",
+            "guid": "d9f1212a-09ff-40ce-a520-5332920ba083",
+            "id": "7",
+            "name": "New folder",
+            "type": "folder"
+         } ],
+         "date_added": "13376306717604827",
+         "date_last_used": "0",
+         "date_modified": "13247769257753291",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13376306717604831",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13376306717604934",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
